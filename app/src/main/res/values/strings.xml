@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Screen</string>
+    <string-array name="array">
+        <item>Seleccionar clase</item>
+        <item>Seleccionar Clase 2</item>
+    </string-array>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Lunes</string>
+    <string name="tab_text_2">Martes</string>
+    <string name="tab_text_3">Miercoles</string>
+    <string name="tab_text_4">Jueves</string>
+    <string name="tab_text_5">Viernes</string>
+    <string name="tab_text_6">Sábado</string>
+</resources>
